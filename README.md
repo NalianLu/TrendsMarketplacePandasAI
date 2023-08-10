@@ -1,1 +1,2 @@
 # Group 8: Talk to Your Dataset with PandasAI
+We are thrilled to introduce you to the forefront of data science: PandasAI. It is a revolutionary leap that is poised to reshape the very foundations of data analysis and manipulation. By combining the power of advanced natural language processing, Pandas AI enables you to talk to your Pandas data frame and bridge the gap between natural language processing and traditional data science methodologies. Please see more details in our samples.
